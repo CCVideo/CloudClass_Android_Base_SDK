@@ -1,61 +1,0 @@
-10
-
-dir
-5260
-svn://192.168.1.248:3380/om-dev/live/android/trunk/CCSSKT_Android_Base/app/src/main/res
-svn://192.168.1.248:3380/om-dev
-
-
-
-2017-11-20T01:19:52.123312Z
-4345
-guopf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-c0e8f11c-a953-11e5-9218-8f706abcb27f
-
-values
-dir
-
-drawable
-dir
-
-drawable-xxhdpi
-dir
-
-anim
-dir
-
-mipmap-hdpi
-dir
-
-mipmap-xxhdpi
-dir
-
-raw
-dir
-
-mipmap-mdpi
-dir
-
-layout
-dir
-
-mipmap-xhdpi
-dir
-
-mipmap-xxxhdpi
-dir
-
