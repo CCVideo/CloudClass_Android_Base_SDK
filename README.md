@@ -1,5 +1,5 @@
 # CloudClass_Android_Base_SDK
-CC视频云课堂产品基础班的SDK和demo（android平台）
+CC视频云课堂产品基础版的SDK和demo（android平台）
 ## 1.概述
 提供云课堂基础SDK功能，包括推流，拉流等。为用户提供快速，简便的方法开展自己的实时互动课堂。
 
