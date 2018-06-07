@@ -1,4 +1,5 @@
-[TOC] 
+# CloudClass_Android_Base_SDK
+CC视频云课堂产品基础班的SDK和demo（android平台）
 ## 1.概述
 提供云课堂基础SDK功能，包括推流，拉流等。为用户提供快速，简便的方法开展自己的实时互动课堂。
 
@@ -43,8 +44,7 @@ ccclassroom-base.jar已经混淆过，如果需要对应用进行混淆，需要
 
 注：快速集成主要提供的是推流和拉流的功能(核心功能)。
 
-首先，需要下载最新版本的SDK，下载地址为：
-https://github.com/CCVideo/CloudClass_Android_Base_SDK/releases
+首先，需要下载最新版本的SDK，下载地址为：[CloudClass_Android_Base_SDK](https://github.com/CCVideo/CloudClass_Android_Base_SDK/releases)
 
 ### 3.1 导入jar
 |            名称                            | 描述      |
